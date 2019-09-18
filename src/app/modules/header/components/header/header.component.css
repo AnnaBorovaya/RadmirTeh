@@ -1,0 +1,22 @@
+.header {
+    padding: 19px 0;
+    background-color: #0000FF
+}
+
+a.header-logo img{
+    display: block;
+    height: 40px;
+    width: 40px;
+}
+
+.header-nav a {
+    color: white;
+    font-size: 18px;
+    margin-right: 40px;
+    font-weight: 200;
+    text-decoration: none;
+    
+}
+.header-nav a:hover {
+    color: #000;
+}
